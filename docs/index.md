@@ -28,7 +28,7 @@ If you are using linux or mac os, it is recommenced to use this command to insta
 ```sh
 curl -sLf https://spacevim.org/install.sh | bash
 ```
-with this command, SpaceVim will be installed. all the plugins will be install **automatically** when first time run vim/nvim.
+with this command, SpaceVim will be installed. All plugins will be installed **automatically** the first time you run vim/nvim.
 for more info about the install script, please check:
 
 ```sh
